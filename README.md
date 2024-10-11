@@ -90,7 +90,7 @@ The app fetches stock information using the [TwelveData API](https://twelvedata.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/StockLookupApp.git
+    git clone https://github.com/Priyanka-Das-0/fiNN-.git
     ```
 
 2. Open the project in **Android Studio**.
